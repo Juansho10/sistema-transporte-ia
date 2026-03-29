@@ -1,3 +1,5 @@
+from _future_ import annotations
+
 """
 search_algorithms.py
 ====================
@@ -127,7 +129,8 @@ def bfs(kb: KnowledgeBase, origin: str, destination: str) -> SearchResult | None
 
     Complejidad: O(V + E) donde V=estaciones, E=conexiones.
     """
-    queue = deque([(origin, [origin], 0, [])])  # (nodo, camino, tiempo, lineas)
+    queue = deque([(origin, [origin], 0, [])]
+                  )  # (nodo, camino, tiempo, lineas)
     visited = {origin}
     nodes_explored = 0
 
