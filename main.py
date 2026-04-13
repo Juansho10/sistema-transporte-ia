@@ -4,7 +4,6 @@ main.py
 Interfaz de usuario por consola para el sistema inteligente de transporte masivo.
 Permite consultar rutas de forma interactiva, comparar algoritmos y ver inferencias.
 
-Autor Estudiante 2: [NOMBRE DEL COMPAÑERO]
 """
 
 import sys

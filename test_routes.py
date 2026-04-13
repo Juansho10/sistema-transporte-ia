@@ -4,7 +4,6 @@ tests/test_routes.py
 Pruebas unitarias del sistema inteligente de transporte masivo.
 Evidencia las pruebas realizadas para el entregable del proyecto.
 
-Autor Estudiante 2: [NOMBRE DEL COMPAÑERO]
 """
 
 import sys

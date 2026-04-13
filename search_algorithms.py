@@ -1,4 +1,4 @@
-from _future_ import annotations
+from __future__ import annotations
 
 """
 search_algorithms.py
@@ -15,7 +15,6 @@ La heurística de A* usa la distancia euclidiana entre coordenadas GPS,
 lo que convierte este sistema en un buscador informado basado en conocimiento
 geográfico del dominio.
 
-Autor Estudiante 2: [NOMBRE DEL COMPAÑERO]
 """
 
 import heapq

@@ -5,7 +5,6 @@ Sistema inteligente de transporte masivo.
 Integra la base de conocimiento (reglas lógicas) con los algoritmos de búsqueda
 para producir rutas óptimas con explicación razonada.
 
-Autor Estudiante 1: [TU NOMBRE]
 """
 
 from knowledge_base import KnowledgeBase

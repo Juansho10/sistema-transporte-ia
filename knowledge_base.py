@@ -2,11 +2,8 @@
 knowledge_base.py
 =================
 Base de conocimiento del sistema de transporte masivo (Megabús - Pereira).
-Representa el conocimiento mediante REGLAS LÓGICAS (Hechos + Reglas de inferencia),
-siguiendo el paradigma de sistemas basados en conocimiento del cap. 2 y 3 del libro
-de Benítez (2014).
+Representa el conocimiento mediante REGLAS LÓGICAS (Hechos + Reglas de inferencia).
 
-Autor Estudiante 1: [TU NOMBRE]
 """
 
 # ─────────────────────────────────────────────────────────────────────────────
